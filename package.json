@@ -1,6 +1,6 @@
 {
   "name": "team-site-template",
-  "private": true,
+  "private": false,
   "sideEffects": false,
   "type": "module",
   "scripts": {
